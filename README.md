@@ -17,4 +17,5 @@ alert(name);
 
 this text will be _italic_
 this text will be **bold**
-~~strikethrough~~
+
+:monkey_face:
